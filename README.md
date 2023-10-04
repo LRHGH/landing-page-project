@@ -1,1 +1,2 @@
 # landing-page-project
+Landing page project assigned by The Odin Project, split project into header, footer and four sections for ease of building.  Tackled each section from top to bottom, added a header then styled, section one then styled etc.
